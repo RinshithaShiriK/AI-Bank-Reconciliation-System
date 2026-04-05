@@ -1,0 +1,9 @@
+<h2>Matched Transactions</h2>
+{% for m in matched %}
+<p>{{ m.0 }} ↔️ {{ m.1 }}</p>
+{% endfor %}
+
+<h2>Unmatched Transactions</h2>
+{% for u in unmatched %}
+<p>{{ u }}</p>
+{% endfor %}
