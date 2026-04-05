@@ -38,6 +38,14 @@ python manage.py runserver
 
 ---
 
+## 📸 Screenshots
+
+### Upload Page
+![Upload](screenshots/upload.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
 ## 🎯 Future Improvements
 - AI-based smart matching
 - Graph dashboards
