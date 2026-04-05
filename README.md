@@ -46,4 +46,4 @@ python manage.py runserver
 ---
 
 ## 👩‍💻 Author
-Rinshitha Shirin
+Rinshitha Shirin k
